@@ -12,6 +12,8 @@ I visited Silvan Reservoir Park last weekend. It's a 15 minutes' drive northeast
 
 bq. Set in the foothills of the Dandenong Ranges, Silvan Reservoir Park is an easy drive from Melbourne and ideal for a great day out. Featuring landscaped picnic areas and open lawns surrounded by an impressive eucalypt forest, this park is perfect for a picnic or barbecue.
 
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=145.24097442626953%2C-37.900323275902174%2C145.47443389892578%2C-37.74465712069938&amp;layer=mapnik&amp;marker=-37.822531238600334%2C145.35770416259766" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=-37.8225&amp;mlon=145.3577#map=12/-37.8225/145.3577">View Larger Map</a></small>
+
 The eucalyptus forest on the approach to the park is stunning: it's a good long stretch of thick, towering trees that barely let any sunlight through. Too bad there was nowhere to park along the road, so I didn't end up taking any photos of the trees.
 
 Pics ahoy!
