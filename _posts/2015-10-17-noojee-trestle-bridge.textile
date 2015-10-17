@@ -1,0 +1,46 @@
+---
+layout: post
+title: "Noojee Trestle Bridge"
+date: 2015-10-17 5:26:43
+categories: melbourne
+---
+Today I went to see the Noojee Trestle Bridge. It’s about a hundred kilometers east of Melbourne, or an hour an a bit of driving from Boronia. There’s a short trail that passes over the bridge, surrounded by tall trees and blackboys. The bridge itself is in good condition, with some obvious signs of restoration, like the steel cord barriers along the walkway.
+
+<!--more-->
+
+"RailTrails Australia":railtrails-australia has this tidbit of information about the bridge on their website:
+
+bq. This trail is part of the branch line from Warragul that opened in 1919. It was gradually closed in sections between 1954 and 1958. This area suffers from bushfires and required a lot of expensive repairs on many occasions.  The Noojee Trestle was destroyed by fire in 1939, and rebuilt again in the same year. It is an impressive structure spanning 102 metres, is 21 metres high, and is supported by 19 sets of piles.
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=145.97707986831665%2C-37.90533492788172%2C145.99167108535767%2C-37.89559914283699&amp;layer=mapnik&amp;marker=-37.90047566224318%2C145.98437547683716" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=-37.9005&amp;mlon=145.9844#map=16/-37.9005/145.9844">View Larger Map</a></small>
+
+I didn’t see any actual railway tracks along the trail. According to "Wiki":wiki-noojee-railway-line, the line was dismantled in the 1950s, so I guess that explains it. Looks like it was used extensively by the timber industry once, but the constant bushfires made it untenable.
+
+As always, you can see some of the photos that I took below.
+
+:heart:
+
+<a href="https://flic.kr/p/zTQnrx"><img alt="noojee trestle bridge" height="640" width="427" src="https://farm6.staticflickr.com/5645/22246352141_700e0c7bd8_k_d.jpg" /></a>
+
+<a href="https://flic.kr/p/yVTfWb"><img alt="noojee trestle bridge" height="640" width="427" src="https://farm1.staticflickr.com/660/21613191814_710c1d0654_k_d.jpg" /></a>
+
+<a href="https://flic.kr/p/zQBtrN"><img alt="noojee trestle bridge" height="640" width="427" src="https://farm6.staticflickr.com/5655/22209886396_30fcc059a8_k_d.jpg" /></a>
+
+<a href="https://flic.kr/p/zSVdLr"><img alt="noojee trestle bridge" height="640" width="427" src="https://farm6.staticflickr.com/5759/22235982025_0b14fa852e_k_d.jpg" /></a>
+
+<a href="https://flic.kr/p/zRMiUG"><img alt="noojee trestle bridge" height="427" width="640" src="https://farm6.staticflickr.com/5712/22223121932_304272d192_k_d.jpg" /></a>
+
+<a href="https://flic.kr/p/zSUS7k"><img alt="noojee trestle bridge" height="427" width="640" src="https://farm6.staticflickr.com/5656/22235912535_58e9b4695d_k_d.jpg" /></a>
+
+<a href="https://flic.kr/p/zRM8QJ"><img alt="noojee trestle bridge" height="640" width="427" src="https://farm1.staticflickr.com/772/22223088062_9e67bbeb48_k_d.jpg" /></a>
+
+<a href="https://flic.kr/p/zSUEB6"><img alt="noojee trestle bridge" height="640" width="427" src="https://farm1.staticflickr.com/632/22235873835_2349a02160_k_d.jpg" /></a>
+
+<a href="https://flic.kr/p/zAoNM4"><img alt="noojee trestle bridge" height="427" width="640" src="https://farm6.staticflickr.com/5810/22048984029_abdf1721f6_k_d.jpg" /></a>
+
+<a href="https://flic.kr/p/yVSJPN"><img alt="noojee trestle bridge" height="427" width="640" src="https://farm6.staticflickr.com/5620/21613090524_a3f61589fd_k_d.jpg" /></a>
+
+<a href="https://flic.kr/p/zAhzrE"><img alt="noojee trestle bridge" height="640" width="427" src="https://farm1.staticflickr.com/730/22047768500_962d32f2ff_k_d.jpg" /></a>
+
+[railtrails-australia]https://www.railtrails.org.au/trail?view=trail&id=204
+[wiki-noojee-railway-line]https://en.wikipedia.org/wiki/Noojee_railway_line
