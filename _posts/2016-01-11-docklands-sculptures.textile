@@ -1,0 +1,29 @@
+---
+layout: post
+title: "A lunchtime amble through Docklands"
+date: 2016-01-11 7:03:17
+categories: melbourne
+---
+Every (well, most) lunchtime I go out for a walk around Melbourne. Last Thursday, I decided to head in the opposite direction to the usual citybound stroll and found myself in Docklands.
+
+<!--more-->
+
+According to "Wiki":docklands-wiki, Docklands occupies what used to be swampland prior to the 1880, when the area came to be used as a dock. It fell out of use as such by the 1990s. Around this time, Docklands became popular as an underground rave scene—a reputation it maintains to this day with rave events held at Docklands Stadium. 
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=144.9221134185791%2C-37.841851383124855%2C144.96914863586426%2C-37.8026635004523&amp;layer=mapnik&amp;marker=-37.822260042676604%2C144.94563102722168" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=-37.8223&amp;mlon=144.9456#map=14/-37.8223/144.9456">View Larger Map</a></small>
+
+There are a number of art installations in Docklands. I got the chance to photograph a handful of them, but there are many more. I may well return later this week and hunt for the others (if you like the photos I post here!).
+
+Without further ado, the photos!
+
+:heart:
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/18562240@N07/24181085792/" title="20160107_Fish"><img src="https://farm2.staticflickr.com/1528/24181085792_485a0afe3c_b.jpg" width="665" height="1024" alt="20160107_Fish"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/18562240@N07/24289256115/" title="20160107_Thing"><img src="https://farm2.staticflickr.com/1562/24289256115_7f4841569a_b.jpg" width="641" height="1024" alt="20160107_Thing"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/18562240@N07/24181116982/" title="20160107_Tram"><img src="https://farm2.staticflickr.com/1450/24181116982_a563cfd8d0_b.jpg" width="609" height="1024" alt="20160107_Tram"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a href="https://flic.kr/p/ATGHpW"><img alt="domaine chandon yarra valley" height="427" width="640" src="https://c2.staticflickr.com/6/5645/22901215200_ae38ecd35f_h_d.jpg" /></a>
+
+[docklands-wiki]https://en.wikipedia.org/wiki/Docklands,_Victoria
